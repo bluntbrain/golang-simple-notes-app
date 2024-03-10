@@ -2,6 +2,8 @@
 
 This simple notes application is built in Go and demonstrates basic programming concepts, including creating, displaying, and saving notes. Below are the key concepts and Go features utilized in this application.
 
+![Demo](demo.gif)
+
 ## Key Concepts
 
 ### Custom Package Creation and Usage
